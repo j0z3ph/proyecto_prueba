@@ -1,0 +1,5 @@
+# mi primer .gitignore
+
+**/ignorame
+ignorame.txt
+
